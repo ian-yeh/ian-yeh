@@ -5,7 +5,7 @@ I am a first-year Engineering Student at McMaster University, passionate about e
 
 ## 🚀 What I'm Up To
 
-- 💻 Building Algobase, a full-stack Rubik's Cube training platform with AI time analysis for immediate feedback.
+- 💻 Building Flashlearn, an AI-powered lecture summarization application that generates quizzes and flashcards so you don't have to waste time reading.
 
 Check out my [coding portfolio!](https://ianyeh.ca)
 

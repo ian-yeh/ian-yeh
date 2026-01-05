@@ -3,7 +3,7 @@ First-year Software Engineering student at McMaster University.
 
 Seeking Summer 2026 internships.
 
-Currently, *MacEngDB*, the hub for McMaster Engineering courses, internships and resources.
+Currently building *MacEngDB*, the hub for McMaster Engineering courses, internships and resources.
 
 **Interested in**
 - Full-stack development

@@ -10,4 +10,4 @@ Currently building *MacEngDB*, the hub for McMaster Engineering courses, interns
 - AI/ML
 - Systems programming
 
-[Website](www.ianyeh.ca) | [LinkedIn](www.linkedin.com/in/-ianyeh)
+[Website](https://www.ianyeh.ca) | [LinkedIn](https://www.linkedin.com/in/-ianyeh)

@@ -1,5 +1,5 @@
 ## Ian Yeh
-First-year Software Engineering student at McMaster University.
+Software Engineering student at McMaster University.
 
 Seeking Summer 2026 internships.
 

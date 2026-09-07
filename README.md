@@ -3,9 +3,11 @@ Software Engineering student at McMaster University.
 
 <!-- Currently building [MacEngDB](https://www.macengdb.ca), the hub for McMaster Engineering internships and resources. -->
 **Currently**
-- SWE Intern @ Staccato
 - Technical Exec @ Deltahacks
 - Founding Team @ McMaster Blueprint
+
+**Previously**
+- SWE Intern @ Staccato AI
 
 **Interested in**
 - Distributed systems at scale
